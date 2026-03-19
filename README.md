@@ -1,4 +1,10 @@
-## Hi there 👋
+# About Me
+### Hello, it's me. Jiwon Jung! 
+
+🏫 (25.03~) Majoring in Data Science @DSWU in Seoul, South Korea. <br/>
+🦁 (26.03~) BabyLion FE @LIKELION-DS-14th
+
+#### Just Do It and Make It Count! Being 'jdiamic' is my life goal...😌
 
 <!--
 **stopwonee/stopwonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
