@@ -10,10 +10,7 @@
 ---
 
 # My Tech Stack 🧱
-<img src="https://img.shields.io/badge/Python-c4f980?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/C-c4f980?style=for-the-badge&logo=c&logoColor=black"/>
-
-#### +) Now learning about...✍️
-<img src="https://img.shields.io/badge/HTML-c4f980?style=for-the-badge&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-c4f980?style=for-the-badge&logo=css&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-c4f980?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/C-c4f980?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-c4f980?style=for-the-badge&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-c4f980?style=for-the-badge&logo=css&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-c4f980?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 
 ---
 
