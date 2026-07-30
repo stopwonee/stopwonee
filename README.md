@@ -49,6 +49,7 @@
 
 - ### ✍️ Education Mentor @ Seoul Learn
   - Helping students grow by sharing learning experiences
+  - Turning personal learning experiences into shared opportunities for others
   - 🏅 Selected as an Outstanding Mentor (June 2026)
  
 - ### 🌏 Duksung International Affairs Ambassador (DIAA)
