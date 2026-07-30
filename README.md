@@ -7,6 +7,8 @@
 *Be JDIAMIC! 🤞*
 <br/>
 
+---
+
 ## 👀 About Me 
 
 👩‍🎓 Graduated from Seoul Global High School<br/>
@@ -26,40 +28,50 @@
 
 ### 🛠 Tools
 `GitHub` `VS Code` `Google Colab`
+
+### 🤖 AI Tools
+`ChatGPT` `Gemini` `Claude`
 <br/>
 <br/>
-# 🚀 Projects
+## 🚀 Projects
+*🚧 More projects are coming soon!*
 
-## 🦁 As a Front-End Developer @ LIKELION DSWU 14th
+### 🦁 Front-End Development
 
-- Clone Coding: **Everytime**
+- Clone Project: **Everytime**
 - IDEAthon: **PICKstage** – A recommendation service for first-time band concert experiences
-- Toy Project: **Qampus** – Developed a Q&A board
-- HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to work
+- Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026Qampus))
+- HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
 
-## 📊 As a Data Science Student
+### 📊 Data Science
 
 - **DATA Lead**, 2026 KOSSDA Data Analysis Competition
+  - 🤖 Used ChatGPT to accelerate visualization code development for income-based youth leisure inequality analysis ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
 - 🏆 **Best Paper Award**, 2026 Summer Conference of the Korea Society of Computer Information
   - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement*
+<br/>
 
 ## 🌱 Community
 
 ### ✍️ Education Mentor @ Seoul Learn
-  - Helping students grow by sharing learning experiences
-  - Turning personal learning experiences into shared opportunities for others
-  - 🏅 Selected as an Outstanding Mentor (June 2026)
+- Seoul Metropolitan Government program supporting educational equity for underprivileged youth
+- Mentoring for 4+ months
+- Turning personal learning experiences into shared opportunities for others
+- 🏅 Selected as an Outstanding Mentor (June 2026)
  
 ### 🌏 Duksung International Affairs Ambassador (DIAA)
-  - Represented Duksung Women's University as an International Affairs Ambassador
-  - Supported international students through campus programs and cultural exchange activities
-  - Promoted an inclusive and global campus community
+- Represented Duksung Women's University as an International Affairs Ambassador
+- Supported international students through campus programs and cultural exchange activities
+- Promoted an inclusive and global campus community
+- Directly supported 5 international students
 
 ## 📫 Connect with Me
 
-- 📧 Email: stopw0n@naver.com
+- 📧 **Email:** stopw0n@naver.com
 ---
-*🚧 More exciting projects are coming soon!*
+> ## **大知觀於遠近**
+>
+>*Great wisdom embraces both the near and the far.*
 <!--
 **stopwonee/stopwonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
