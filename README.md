@@ -29,7 +29,7 @@
 ### 🛠 Tools
 `GitHub` `VS Code` `Google Colab`
 
-### 🤖 AI Tools
+### 🤖 AI Tools & Assistants
 `ChatGPT` `Gemini` `Claude`
 <br/>
 <br/>
@@ -40,13 +40,15 @@
 
 - Clone Project: **Everytime**
 - IDEAthon: **PICKstage** – A recommendation service for first-time band concert experiences
+  - 🏅 1st Place in the university preliminary round and advanced to the regional preliminary round.
 - Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026Qampus))
 - HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
 
 ### 📊 Data Science
 
 - **DATA Lead**, 2026 KOSSDA Data Analysis Competition
-  - 🤖 Used ChatGPT to accelerate visualization code development for income-based youth leisure inequality analysis ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
+  - Analyzed youth leisure inequality using public datasets. ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
+  - 🤖 Leveraged ChatGPT to accelerate data visualization and code development.
 - 🏆 **Best Paper Award**, 2026 Summer Conference of the Korea Society of Computer Information
   - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement*
 <br/>
@@ -55,7 +57,7 @@
 
 ### ✍️ Education Mentor @ Seoul Learn
 - Seoul Metropolitan Government program supporting educational equity for underprivileged youth
-- Mentoring for 4+ months
+- Provided one-on-one mentoring for over four months.
 - Turning personal learning experiences into shared opportunities for others
 - 🏅 Selected as an Outstanding Mentor (June 2026)
  
