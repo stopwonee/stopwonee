@@ -10,7 +10,7 @@
 # 👀 About Me 
 
 👩‍🎓 (2021.03 – 2024.02) Seoul Global High School<br/>
-🏫 (2025.03 – Present) B.S. in Data Science, Duksung Women's University<br/>
+🏫 (2025.03 – Present) Data Science Student, Duksung Women's University<br/>
 🦁 (2026.03 – Present) Frontend Developer, LIKELION DSWU 14th
 <br/>
 <br/>
