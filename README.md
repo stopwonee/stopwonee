@@ -41,7 +41,7 @@
 - Clone Project: **Everytime**
 - IDEAthon: **PICKstage** – A recommendation service for first-time band concert experiences
   - 🏅 1st Place in the university preliminary round and advanced to the regional preliminary round.
-- Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026Qampus))
+- Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026))
 - HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
 
 ### 📊 Data Science
