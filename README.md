@@ -15,7 +15,7 @@
 🏫 Data Science Sophomore @ Duksung Women's University<br/>
 🦁 Front-End Developer @ LIKELION DSWU 14th<br/><br/>
 
-🔍 Currently exploring Data Science, Artificial Intelligence, and Natural Language Processing.
+🌊 Currently surfing through my areas of interest.
 <br/>
 <br/>
 ## 🧱 Core Skills
