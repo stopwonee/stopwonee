@@ -27,7 +27,7 @@
 `HTML5` `CSS3` `JavaScript`
 
 ### 🛠 Tools
-`GitHub` `VS Code` `Google Colab`
+`GitHub` `VS Code` `Google Colab` `Notion`
 
 ### 🤖 AI Tools & Assistants
 `ChatGPT` `Gemini` `Claude`
