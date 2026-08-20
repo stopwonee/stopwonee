@@ -43,6 +43,7 @@
   - 🏅 1st Place in the university preliminary round and advanced to the regional preliminary round.
 - Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026))
 - HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
+- LIKELION UNIV. 14th Central Hackathon: **SWin** - A comprehensive wellness management platform designed for swimmers ([🔗check my repo!](https://github.com/LIKELION-DuksesSwinning/SWin-FE.git))
 
 ### 📊 Data Science
 
@@ -60,6 +61,7 @@
 - Provided one-on-one mentoring for over four months.
 - Turning personal learning experiences into shared opportunities for others
 - 🏅 Selected as an Outstanding Mentor (June 2026)
+- 🏅 Selected as an Outstanding Mentor (July 2026).
  
 ### 🌏 Duksung International Affairs Ambassador (DIAA)
 - Represented Duksung Women's University as an International Affairs Ambassador
