@@ -24,7 +24,7 @@
 `Python` `C`
 
 ### 🌐 Front-End
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `React`
 
 ### 🛠 Tools
 `GitHub` `VS Code` `Google Colab` `Notion`
