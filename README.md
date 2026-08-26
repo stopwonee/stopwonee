@@ -51,7 +51,7 @@
   - Analyzed youth leisure inequality using public datasets. ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
   - 🤖 Leveraged ChatGPT to accelerate data visualization and code development.
 - 🏆 **Best Paper Award**, 2026 Summer Conference of the Korea Society of Computer Information
-  - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement*
+  - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement* ([🔗check this link!](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12931603))
 <br/>
 
 ## 🌱 Community
