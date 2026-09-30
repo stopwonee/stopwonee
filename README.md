@@ -27,8 +27,9 @@
 `HTML5` `CSS3` `JavaScript`
 
 <br/>
-<br/>
+
 ## 🚀 Projects
+
 *🚧 More projects are coming soon!*
 
 ### 🦁 Front-End Development
