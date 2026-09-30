@@ -24,13 +24,8 @@
 `Python` `C`
 
 ### 🌐 Front-End
-`HTML5` `CSS3` `JavaScript` `React`
+`HTML5` `CSS3` `JavaScript`
 
-### 🛠 Tools
-`GitHub` `VS Code` `Google Colab` `Notion`
-
-### 🤖 AI Tools & Assistants
-`ChatGPT` `Gemini` `Claude`
 <br/>
 <br/>
 ## 🚀 Projects
@@ -58,12 +53,11 @@
 
 ### ✍️ Education Mentor @ Seoul Learn
 - Seoul Metropolitan Government program supporting educational equity for underprivileged youth
-- Provided one-on-one mentoring for over four months.
+- Provided one-on-one mentoring since February, 2026.
 - Turning personal learning experiences into shared opportunities for others
-- 🏅 Selected as an Outstanding Mentor (June 2026)
-- 🏅 Selected as an Outstanding Mentor (July 2026).
+- 🏅 Selected as an Outstanding Mentor (June, July 2026)
  
-### 🌏 Duksung International Affairs Ambassador (DIAA)
+### 🌏 Duksung International Affairs Ambassador (DIAA, 26-1)
 - Represented Duksung Women's University as an International Affairs Ambassador
 - Supported international students through campus programs and cultural exchange activities
 - Promoted an inclusive and global campus community
