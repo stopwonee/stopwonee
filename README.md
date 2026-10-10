@@ -32,6 +32,13 @@
 
 *🚧 More projects are coming soon!*
 
+### 📊 Data Science
+
+- 🏆 **Best Paper Award**, 2026 Summer Conference of the Korea Society of Computer Information
+  - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement* ([🔗check this link!](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12931603))
+
+
+
 ### 🦁 Front-End Development
 
 - Clone Project: **Everytime**
@@ -41,20 +48,33 @@
 - HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
 - LIKELION UNIV. 14th Central Hackathon: **SWin** - A comprehensive wellness management platform designed for swimmers ([🔗check my repo!](https://github.com/LIKELION-DuksesSwinning/SWin-FE.git))
 
-### 📊 Data Science
 
+ 
+### 🏁 Competitions & 🚀 Hackathons
+
+- **Product Planning**, 2026 Livestock Product Distribution Idea Competition
+  - Proposed a ready-to-eat porridge concept using underutilized meat cuts for patients recovering from wisdom tooth extraction.
+  - Used healthcare data and livestock market research to identify a niche market and outline a B2B2C distribution model through dental clinics.
 - **DATA Lead**, 2026 KOSSDA Data Analysis Competition
   - Analyzed youth leisure inequality using public datasets. ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
   - 🤖 Leveraged ChatGPT to accelerate data visualization and code development.
-- 🏆 **Best Paper Award**, 2026 Summer Conference of the Korea Society of Computer Information
-  - *Why Do Users "Scold" AI?: An Empirical Analysis of LLM User Anthropomorphism, Expectation Disconfirmation, and Emotional Over-Engagement* ([🔗check this link!](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12931603))
+- **PM**, 2026 News Big Data Hackathon
+   - **forGET** : Proposed a service using BIGKinds news data to help readers revisit past disasters and industrial accidents and discover follow-up coverage.
+   - Led service planning and proposal development, defining core features and a data analysis approach.
+ 
+
+
+### 🤖 Vibe Coding
+
+- **Hankan-nine**: An online manuscript paper (Wongoji) tool built with vibe-coding, born out of the challenges I faced while preparing for university essay exams.
+  - Named "Hankan-Nine" to mark its release on Hangul Day (October 9th), reflecting Wongoji's role in guiding the proper use of the Korean language. ([🔗try it!](https://hankan-nine.vercel.app/))
 <br/>
 
 ## 🌱 Community
 
 ### ✍️ Education Mentor @ Seoul Learn
 - Seoul Metropolitan Government program supporting educational equity for underprivileged youth
-- Provided one-on-one mentoring since February, 2026.
+- Provided one-on-one mentoring to middle and high school students since February, 2026.
 - Turning personal learning experiences into shared opportunities for others
 - 🏅 Selected as an Outstanding Mentor (June, July 2026)
  
