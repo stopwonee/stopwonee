@@ -50,14 +50,13 @@
 
 
  
-### 🏁 Competitions & 🚀 Hackathons
+### 🏁 Competitions & Hackathons
 
 - **Product Planning**, 2026 Livestock Product Distribution Idea Competition
   - Proposed a ready-to-eat porridge concept using underutilized meat cuts for patients recovering from wisdom tooth extraction.
   - Used healthcare data and livestock market research to identify a niche market and outline a B2B2C distribution model through dental clinics.
 - **DATA Lead**, 2026 KOSSDA Data Analysis Competition
   - Analyzed youth leisure inequality using public datasets. ([🔗check my repo!](https://github.com/stopwonee/2026-KOSSDA))
-  - 🤖 Leveraged ChatGPT to accelerate data visualization and code development.
 - **PM**, 2026 News Big Data Hackathon
    - **forGET** : Proposed a service using BIGKinds news data to help readers revisit past disasters and industrial accidents and discover follow-up coverage.
    - Led service planning and proposal development, defining core features and a data analysis approach.
