@@ -24,13 +24,11 @@
 `Python` `C`
 
 ### 🌐 Front-End
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `TypeScript`
 
 <br/>
 
 ## 🚀 Projects
-
-*🚧 More projects are coming soon!*
 
 ### 📊 Data Science
 
@@ -41,12 +39,13 @@
 
 ### 🦁 Front-End Development
 
-- Clone Project: **Everytime**
+- Clone Project: **Everytime** ([🔗check my repo!](https://github.com/stopwonee/FE_study_hw))
 - IDEAthon: **PICKstage** – A recommendation service for first-time band concert experiences
   - 🏅 1st Place in the university preliminary round and advanced to the regional preliminary round.
 - Toy Project: **Qampus** – Developed a university Q&A board ([🔗check my repo!](https://github.com/LIKELION-Qampus/Qampus-2026))
 - HEREthon: **잇대 (Connect University)** – A career exploration platform for women returning to the workforce ([🔗check my repo!](https://github.com/2026-HERETHON/2026-herethon-16))
 - LIKELION UNIV. 14th Central Hackathon: **SWin** - A comprehensive wellness management platform designed for swimmers ([🔗check my repo!](https://github.com/LIKELION-DuksesSwinning/SWin-FE.git))
+- Clone Project: **O-house** ([🔗check my repo!](https://github.com/LIKELION-14th-FE-study-team1/Ohouse-clone))
 
 
  
