@@ -85,7 +85,6 @@
 ## 📫 Connect with Me
 
 - 📧 **Email:** stopw0n@naver.com
-- 👥 **LinkedIn:** [Link!](www.linkedin.com/in/jiwon-jung-jdiamic)
 ---
 > ## **大知觀於遠近**
 >
